@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/@sarcasticuk_" target="blank"><img src="https://img.shields.io/twitter/follow/@sarcasticuk_?logo=twitter&style=for-the-badge" alt="@sarcasticuk_" /></a> </p>
 
 
-- 🌱 I’m currently learning **nodejs**
+🌱 I’m currently learning **Node.js** to enhance my backend development skills and build scalable web applications.
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://uday-portfolio-weld.vercel.app/)
 

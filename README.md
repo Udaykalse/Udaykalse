@@ -7,17 +7,16 @@
 
 <p align="left"> <a href="https://twitter.com/@sarcasticuk_" target="blank"><img src="https://img.shields.io/twitter/follow/@sarcasticuk_?logo=twitter&style=for-the-badge" alt="@sarcasticuk_" /></a> </p>
 
-- 🔭 I’m currently working on [mernBLOG](https://github.com/Udaykalse/mernBLOG)
 
 - 🌱 I’m currently learning **nodejs**
 
-- 👨‍💻 All of my projects are available at [https://loquacious-valkyrie-bc0ffa.netlify.app/](https://loquacious-valkyrie-bc0ffa.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://uday-portfolio-weld.vercel.app/)
 
 - 💬 Ask me about **react , javascript**
 
 - 📫 How to reach me **udaykalse123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bbKB1js5UEPbVKktcls6EfXZL1REkkCI/view?usp=drivesdk](https://drive.google.com/file/d/1bbKB1js5UEPbVKktcls6EfXZL1REkkCI/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1iLZXHt40qX-csRcm-m_ezZua9PeR9P-x/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

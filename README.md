@@ -10,7 +10,7 @@
 
 🌱 I’m currently learning **Node.js** to enhance my backend development skills and build scalable web applications.
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://uday-portfolio-weld.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://developer-portfolio-c4eg.vercel.app/)
 
 - 💬 Ask me about **react , javascript**
 

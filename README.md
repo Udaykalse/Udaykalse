@@ -86,7 +86,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=udaykalse&show_icons=true&theme=dark" alt="udaykalse" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=udaykalse&show_icons=true&theme=dark" alt="udaykalse" />
 </p>
 
 <p align="center">

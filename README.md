@@ -86,16 +86,17 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=udaykalse&show_icons=true&theme=dark&locale=en" alt="udaykalse" />
+  <img src="https://github-readme-stats.vercel.app/api?username=udaykalse&show_icons=true&theme=dark" alt="udaykalse" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaykalse&theme=dark" alt="udaykalse" />
+  <img src="https://streak-stats.demolab.com?user=udaykalse&theme=dark" alt="udaykalse" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udaykalse&show_icons=true&theme=dark&locale=en&layout=compact" alt="udaykalse" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykalse&layout=compact&theme=dark" alt="udaykalse" />
 </p>
+
 
 ## 🤝 Connect With Me
 <p align="left">

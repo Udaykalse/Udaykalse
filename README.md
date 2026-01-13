@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=udaykalse&label=Profile%20views&color=0e75b6&style=flat" alt="udaykalse" />
-  <a href="https://linkedin.com/in/uday-kalse" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
+  <a href="[https://linkedin.com/in/uday-kalse](https://www.linkedin.com/in/uday-k-877221391/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="linkedin" /></a>
   <a href="mailto:udaykalse123@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="email" /></a>
 </p>
 

@@ -44,25 +44,25 @@ I am a **Frontend Developer** with a strong foundation in building modern, scala
 ---
 
 ## 🛠️ Technical Expertise
-* **Frontend:** React.js, Next.js, Redux, Tailwind CSS, HTML5/CSS3.
+* **Frontend:** React.js, Next.js, Redux, HTML5/CSS3.
 * **Backend:** FastAPI, Node.js, Express.
-* **Database & DevOps:** PostgreSQL, MongoDB, MySQL, Docker, Git.
-* **Languages:** JavaScript (ES6+), Python, Java.
+* **Database & DevOps:** PostgreSQL, MySQL, Docker, Git.
+* **Languages:** JavaScript (ES6+), Python
 
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=udaykalse&show_icons=true&theme=dark" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaykalse&layout=compact&theme=dark" height="170" />
-</p>
+</p> -->
 
 ---
 
 ## 🤝 Let's Connect
 <p align="left">
   <a href="https://developer-portfolio-c4eg.vercel.app/"><b>Portfolio</b></a> •
-  <a href="https://linkedin.com/in/uday-kalse"><b>LinkedIn</b></a> •
+  <a href="https://www.linkedin.com/in/uday-k-877221391/"><b>LinkedIn</b></a> •
   <a href="https://twitter.com/@sarcasticuk_"><b>Twitter</b></a>
 </p>
 

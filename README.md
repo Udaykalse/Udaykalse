@@ -1,41 +1,39 @@
 <!-- ============================================================
-     HEADER SECTION — DARK MODE
+     HEADER SECTION
 ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E1B4B,100:5B21B6&height=220&section=header&text=Uday%20Kalse&fontSize=55&fontColor=A78BFA&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Full-Stack%20%7C%20Linux%20%26%20Docker%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Uday%20Kalse&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&background=0D1117&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+FastAPI;Linux+%26+Docker+Powered+Workflows;Full-Stack+%26+DevOps+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+FastAPI;Full-Stack+%26+DevOps+Enthusiast;Building+Scalable+Web+Experiences" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/OS-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Container-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
 <br/><br/>
 
 <a href="https://developer-portfolio-c4eg.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/uday-k-877221391/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:udaykalse123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/Udaykalse" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=udaykalse&label=PROFILE%20VIEWS&color=0D1117&style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/followers/Udaykalse?label=FOLLOWERS&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github"/>
-<img src="https://img.shields.io/github/stars/Udaykalse?label=STARS&style=for-the-badge&color=0D1117&labelColor=0D1117&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=udaykalse&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Udaykalse?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github"/>
+<img src="https://img.shields.io/github/stars/Udaykalse?label=STARS&style=for-the-badge&color=8B5CF6&logo=github"/>
 
 </div>
 
@@ -45,10 +43,9 @@
 
 <img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-I'm a **Frontend Developer** with a strong foundation in building modern, scalable, and performant web applications. I specialize in the **React ecosystem** and am actively expanding into **backend architecture, Linux-based infrastructure, containerized deployment with Docker, and AI-assisted engineering** to operate as a well-rounded full-stack engineer with a product-first mindset.
+I'm a **Frontend Developer** with a strong foundation in building modern, scalable, and performant web applications. I specialize in the **React ecosystem** and am actively expanding into **backend architecture, AI-assisted engineering, and DevOps workflows** to operate as a well-rounded full-stack engineer with a product-first mindset.
 
-- 🔭 Currently strengthening expertise in **Node.js**, backend architecture, and **Docker-based containerized deployments**
-- 🐧 Comfortable working day-to-day in a **Linux environment** — shell scripting, process management, and server basics
+- 🔭 Currently strengthening expertise in **Node.js**, backend architecture, and containerized deployments
 - 🧠 Growing focus on integrating **AI/ML-driven features** into full-stack products
 - 💼 Professional experience delivering production React interfaces in a hybrid engineering team
 - ⚙️ Strong believer in clean code, maintainable architecture, and measurable performance
@@ -74,18 +71,9 @@ I'm a **Frontend Developer** with a strong foundation in building modern, scalab
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql&theme=dark"/>
 
-**Linux, Docker, Cloud & Tooling**
+**Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,vercel,vscode&theme=dark"/>
-
-<br/>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Linux-Daily_Driver-0D1117?style=flat-square&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Docker-Compose_%26_Containers-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Bash-Shell_Scripting-0D1117?style=flat-square&logo=gnubash&logoColor=4EAA25"/>
-<img src="https://img.shields.io/badge/Ubuntu-Server_Basics-0D1117?style=flat-square&logo=ubuntu&logoColor=E95420"/>
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode&theme=dark"/>
 
 ---
 
@@ -110,18 +98,18 @@ I'm a **Frontend Developer** with a strong foundation in building modern, scalab
 <summary><b>🔹 Full-Stack CRUD with FastAPI & Docker</b></summary>
 <br/>
 
-A robust full-stack application demonstrating containerization and modern backend-frontend integration with a fully async API layer, built and run entirely on a **Linux + Docker** workflow.
+A robust full-stack application demonstrating containerization and modern backend-frontend integration with a fully async API layer.
 
 | Aspect | Details |
 |---|---|
 | **Stack** | React · FastAPI (Python) · Docker · PostgreSQL |
-| **Scale** | Multi-container orchestrated environment (Docker Compose) |
+| **Scale** | Multi-container orchestrated environment |
 | **Performance** | Asynchronous request handling for non-blocking I/O |
 | **Security** | Environment-isolated containers, parameterized DB queries |
 | **Impact** | Reusable containerized boilerplate for full-stack CRUD systems |
 | **Repository** | [fastapi-react-docker-crud](https://github.com/Udaykalse/fastapi-react-docker-crud) |
 
-Built to demonstrate production-style deployment practices — from React frontend through a FastAPI service layer to a containerized PostgreSQL database — all reproducible via Docker Compose on Linux.
+Built to demonstrate production-style deployment practices — from React frontend through a FastAPI service layer to a containerized PostgreSQL database — all reproducible via Docker Compose.
 
 </details>
 
@@ -181,29 +169,29 @@ Contributed to the design and development of client-facing web applications with
 
 **AWS**
 <br/>
-<img src="https://img.shields.io/badge/AWS-Add%20Certification-0D1117?style=flat-square&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/AWS-Add%20Certification-6D28D9?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 **Oracle**
 <br/>
-<img src="https://img.shields.io/badge/Oracle-Add%20Certification-0D1117?style=flat-square&logo=oracle&logoColor=F80000"/>
+<img src="https://img.shields.io/badge/Oracle-Add%20Certification-7C3AED?style=flat-square&logo=oracle&logoColor=white"/>
 
 **NPTEL**
 <br/>
-<img src="https://img.shields.io/badge/NPTEL-Add%20Certification-0D1117?style=flat-square&logo=googlescholar&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/NPTEL-Add%20Certification-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white"/>
 
 **Cisco**
 <br/>
-<img src="https://img.shields.io/badge/Cisco-Add%20Certification-0D1117?style=flat-square&logo=cisco&logoColor=1BA0D7"/>
+<img src="https://img.shields.io/badge/Cisco-Add%20Certification-A78BFA?style=flat-square&logo=cisco&logoColor=white"/>
 
 ---
 
 ## <img src="https://cdn-icons-png.flaticon.com/512/1998/1998664.png" width="28"/> Coding Profiles
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=5B4638"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Add%20Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Add%20Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Add%20Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 </p>
 
 ---
@@ -212,10 +200,10 @@ Contributed to the design and development of client-facing web applications with
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Udaykalse&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=Udaykalse&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Udaykalse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=Udaykalse&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaykalse&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaykalse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
 
 </div>
 
@@ -224,7 +212,7 @@ Contributed to the design and development of client-facing web applications with
 ## <img src="https://cdn-icons-png.flaticon.com/512/3176/3176369.png" width="28"/> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Udaykalse&theme=onedark&no-frame=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Udaykalse&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ---
@@ -232,7 +220,7 @@ Contributed to the design and development of client-facing web applications with
 ## <img src="https://cdn-icons-png.flaticon.com/512/2620/2620993.png" width="28"/> Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udaykalse&theme=github-compact&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udaykalse&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&hide_border=true"/>
 </div>
 
 ---
@@ -250,7 +238,7 @@ Contributed to the design and development of client-facing web applications with
 ```yaml
 learning:
   - Node.js & backend system design
-  - Linux fundamentals & shell scripting
+  - AI-integrated full-stack architecture
   - Advanced Docker & containerized deployment
 
 building:
@@ -258,7 +246,7 @@ building:
   - Reusable Next.js authentication modules
 
 exploring:
-  - Cloud deployment (AWS) on Linux servers
+  - Cloud deployment (AWS)
   - AI/ML integration in web applications
 
 open_to:
@@ -269,24 +257,13 @@ open_to:
 
 ---
 
-## 🛟 Support
-
-If any of my projects helped you or you'd like to collaborate, feel free to reach out — always open to feedback, code reviews, and contribution requests.
-
-<p align="center">
-<a href="https://github.com/Udaykalse/fastapi-react-docker-crud/issues"><img src="https://img.shields.io/badge/Report_an_Issue-0D1117?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="mailto:udaykalse123@gmail.com"><img src="https://img.shields.io/badge/Ask_a_Question-0D1117?style=flat-square&logo=gmail&logoColor=EA4335"/></a>
-</p>
-
----
-
 ## <img src="https://cdn-icons-png.flaticon.com/512/542/542638.png" width="28"/> Connect With Me
 
 <p align="center">
-<a href="mailto:udaykalse123@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
-<a href="https://www.linkedin.com/in/uday-k-877221391/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://github.com/Udaykalse"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://developer-portfolio-c4eg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:udaykalse123@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/uday-k-877221391/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Udaykalse"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://developer-portfolio-c4eg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -295,6 +272,6 @@ If any of my projects helped you or you'd like to collaborate, feel free to reac
 
 *"Code with passion, build with purpose."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:1E1B4B,100:0D1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
 </div>

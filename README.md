@@ -1,104 +1,144 @@
-<!-- ============================================================
-     HEADER SECTION
-============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Uday%20Kalse&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:5B21B6,100:A78BFA&height=260&section=header&text=UDAY%20KALSE&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%C2%B7%20Full-Stack%20Builder%20%C2%B7%20AI-Curious%20Developer&descAlignY=55&descSize=18&reversal=false" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Next.js+%7C+FastAPI;Full-Stack+%26+DevOps+Enthusiast;Building+Scalable+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+scalable+web+experiences+with+React+%26+Next.js;Shipping+production+FastAPI+%2B+Docker+systems;Engineering+clean+code%2C+one+commit+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-India-6D28D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/📍_Based_in-India-1E1B4B?style=for-the-badge&labelColor=0D1117&color=6D28D9"/>
+<img src="https://img.shields.io/badge/🎓_Focus-Full--Stack_Engineering-1E1B4B?style=for-the-badge&labelColor=0D1117&color=7C3AED"/>
+<img src="https://img.shields.io/badge/🟢_Status-Open_to_Work-1E1B4B?style=for-the-badge&labelColor=0D1117&color=8B5CF6"/>
 
 <br/><br/>
 
-<a href="https://developer-portfolio-c4eg.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/uday-k-877221391/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:udaykalse123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Udaykalse" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://developer-portfolio-c4eg.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="https://www.linkedin.com/in/uday-k-877221391/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="mailto:udaykalse123@gmail.com"><img src="https://img.shields.io/badge/EMAIL-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="https://github.com/Udaykalse" target="_blank"><img src="https://img.shields.io/badge/GITHUB-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="https://twitter.com/@sarcasticuk_" target="_blank"><img src="https://img.shields.io/badge/TWITTER-1E1B4B?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=udaykalse&label=PROFILE%20VIEWS&color=6D28D9&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Udaykalse?label=FOLLOWERS&style=for-the-badge&color=7C3AED&logo=github"/>
-<img src="https://img.shields.io/github/stars/Udaykalse?label=STARS&style=for-the-badge&color=8B5CF6&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=udaykalse&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/Udaykalse?label=FOLLOWERS&style=for-the-badge&color=7C3AED&labelColor=0D1117&logo=github"/>
+<img src="https://img.shields.io/github/stars/Udaykalse?label=STARS&style=for-the-badge&color=8B5CF6&labelColor=0D1117&logo=github"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 <br/>
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1998/1998592.png" width="28"/> About Me
+<div align="center">
 
-<img align="right" width="38%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+```
+██████╗ ██████╗  ██████╗ ███████╗██╗██╗     ███████╗
+██╔══██╗██╔══██╗██╔═══██╗██╔════╝██║██║     ██╔════╝
+██████╔╝██████╔╝██║   ██║█████╗  ██║██║     █████╗  
+██╔═══╝ ██╔══██╗██║   ██║██╔══╝  ██║██║     ██╔══╝  
+██║     ██║  ██║╚██████╔╝██║     ██║███████╗███████╗
+╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚══════╝
+```
 
-I'm a **Frontend Developer** with a strong foundation in building modern, scalable, and performant web applications. I specialize in the **React ecosystem** and am actively expanding into **backend architecture, AI-assisted engineering, and DevOps workflows** to operate as a well-rounded full-stack engineer with a product-first mindset.
+</div>
 
-- 🔭 Currently strengthening expertise in **Node.js**, backend architecture, and containerized deployments
-- 🧠 Growing focus on integrating **AI/ML-driven features** into full-stack products
-- 💼 Professional experience delivering production React interfaces in a hybrid engineering team
-- ⚙️ Strong believer in clean code, maintainable architecture, and measurable performance
-- 🌐 Comfortable across the stack — from pixel-perfect UI to containerized backend services
+---
 
-**🎯 Open To:** Frontend / Full-Stack Engineering Roles · Freelance Web Projects · Open Source Collaboration · AI-Integrated Product Engineering
+## 🧬 About Me
+
+<img align="right" width="36%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+I'm a **Frontend-focused Full-Stack Engineer** who treats interfaces as products, not just pages. My core strength is the **React / Next.js ecosystem**, layered with hands-on backend delivery in **FastAPI, Node.js, and containerized infrastructure**. I care about the details that recruiters and engineering leads actually look for — clean architecture, measurable performance, and code that survives contact with production.
+
+```yaml
+engineer:
+  name: "Uday Kalse"
+  role: "Frontend Developer → Full-Stack Engineer"
+  based_in: "India"
+  focus_areas:
+    - Software Engineering (React / Next.js / TypeScript)
+    - Full-Stack Product Delivery (FastAPI · Node.js · Docker)
+    - AI-Integrated Web Applications
+    - Clean Architecture & Performance Engineering
+  currently:
+    learning: ["Node.js internals", "Backend system design", "AWS"]
+    building: ["Full-stack CRUD systems", "Reusable auth modules"]
+  open_to:
+    - Frontend / Full-Stack Engineering roles
+    - Freelance & contract web projects
+    - Open source collaboration
+```
 
 <br clear="right"/>
 
+<div align="center">
+
+| 💡 Philosophy | 🎯 Focus | 🚀 Approach |
+|:---:|:---:|:---:|
+| Ship clean, not just working | React/Next.js + FastAPI/Node | Product-first engineering mindset |
+| Right tool, right job | Docker for consistent delivery | Performance & maintainability first |
+
+</div>
+
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721620.png" width="28"/> Tech Stack
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
 
 **Languages**
-
+<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,py,html,css&theme=dark"/>
 
-**Frontend**
+<br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark"/>
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark"/>
+
+<br/>
 
 **Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql,mongodb&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgres,mysql&theme=dark"/>
+<br/>
 
 **Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,aws,linux,vscode,postman&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,linux,vscode&theme=dark"/>
+</div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3175/3175284.png" width="28"/> AI / ML Exposure
+## 🧠 AI / ML Exposure
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **AI-Integrated Web Apps** | 🟣🟣🟣⚪⚪ | Exploring integration of AI-driven features into React/Next.js applications |
-| **API-Driven ML Consumption** | 🟣🟣🟣⚪⚪ | Consuming and serving ML model endpoints via FastAPI backends |
-| **Prompt Engineering** | 🟣🟣🟣🟣⚪ | Practical experience structuring prompts for developer tooling & automation |
+| **AI-Integrated Web Apps** | 🟣🟣🟣⚪⚪ | Exploring AI-driven feature integration inside React/Next.js products |
+| **API-Driven ML Consumption** | 🟣🟣🟣⚪⚪ | Consuming and serving ML model endpoints through FastAPI backends |
+| **Prompt Engineering** | 🟣🟣🟣🟣⚪ | Structuring prompts for developer tooling, automation, and workflows |
 | **Data Handling (Python)** | 🟣🟣🟣⚪⚪ | Working knowledge of Python for data-driven backend logic |
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" width="28"/> Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><b>🔹 Full-Stack CRUD with FastAPI & Docker</b></summary>
 <br/>
 
-A robust full-stack application demonstrating containerization and modern backend-frontend integration with a fully async API layer.
+A robust full-stack application demonstrating containerization and modern backend-frontend integration with a fully asynchronous API layer.
 
 | Aspect | Details |
 |---|---|
@@ -109,7 +149,7 @@ A robust full-stack application demonstrating containerization and modern backen
 | **Impact** | Reusable containerized boilerplate for full-stack CRUD systems |
 | **Repository** | [fastapi-react-docker-crud](https://github.com/Udaykalse/fastapi-react-docker-crud) |
 
-Built to demonstrate production-style deployment practices — from React frontend through a FastAPI service layer to a containerized PostgreSQL database — all reproducible via Docker Compose.
+Built to demonstrate production-style deployment practices — from a React frontend through a FastAPI service layer to a containerized PostgreSQL database — all fully reproducible via Docker Compose.
 
 </details>
 
@@ -134,10 +174,10 @@ Designed to implement modern authentication patterns out of the box — protecte
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2721/2721296.png" width="28"/> Experience
+## 💼 Experience
 
 ### ReactJS Intern
-**FirstRicoz Private Limited** &nbsp;|&nbsp; *Hybrid*
+**FirstRicoz Private Limited** &nbsp;·&nbsp; *Hybrid*
 **Oct 2023 – Apr 2024**
 
 Contributed to the design and development of client-facing web applications within a collaborative, cross-functional engineering team.
@@ -146,70 +186,70 @@ Contributed to the design and development of client-facing web applications with
 - Collaborated with cross-functional teams on state management and API integrations
 - Improved application performance and ensured cross-browser compatibility across multiple client projects
 
-`React.js` `JavaScript (ES6+)` `REST APIs` `State Management` `Cross-Browser Testing`
+<kbd>React.js</kbd> <kbd>JavaScript (ES6+)</kbd> <kbd>REST APIs</kbd> <kbd>State Management</kbd> <kbd>Cross-Browser Testing</kbd>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2583/2583344.png" width="28"/> Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🏆 Internship Completion | Successfully completed a 6-month ReactJS internship at FirstRicoz Private Limited |
-| 🚀 Open Source | Actively building and maintaining public full-stack repositories on GitHub |
+| 🏅 Internship Completion | Successfully completed a 6-month ReactJS internship at FirstRicoz Private Limited |
+| 🌐 Open Source | Actively building and maintaining public full-stack repositories on GitHub |
+| 📈 Consistency | Maintains an active GitHub contribution streak across personal projects |
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2942/2942813.png" width="28"/> Certifications
-
-<!-- Add certification badges as you earn them, grouped by provider -->
+## 📜 Certifications
 
 **AWS**
 <br/>
-<img src="https://img.shields.io/badge/AWS-Add%20Certification-6D28D9?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Add_Certification-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 
 **Oracle**
 <br/>
-<img src="https://img.shields.io/badge/Oracle-Add%20Certification-7C3AED?style=flat-square&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-Add_Certification-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
 **NPTEL**
 <br/>
-<img src="https://img.shields.io/badge/NPTEL-Add%20Certification-8B5CF6?style=flat-square&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/NPTEL-Add_Certification-6D28D9?style=flat-square&logo=googlescholar&logoColor=white"/>
 
 **Cisco**
 <br/>
-<img src="https://img.shields.io/badge/Cisco-Add%20Certification-A78BFA?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-Add_Certification-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1998/1998664.png" width="28"/> Coding Profiles
+## 💻 Coding Profiles
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LeetCode-Add%20Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add%20Profile-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Add%20Profile-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Add%20Profile-A78BFA?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-Add_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Add_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HackerRank-Add_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CodeChef-Add_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=1E1B4B"/></a>
 </p>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2620/2620990.png" width="28"/> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Udaykalse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Udaykalse&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&count_private=true" width="49%"/>
 <img src="https://streak-stats.demolab.com?user=Udaykalse&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaykalse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Udaykalse&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udaykalse&theme=tokyonight&utcOffset=5.5" width="49%"/>
 
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/3176/3176369.png" width="28"/> GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Udaykalse&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8"/>
@@ -217,15 +257,15 @@ Contributed to the design and development of client-facing web applications with
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/2620/2620993.png" width="28"/> Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udaykalse&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Udaykalse&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9D1D9&hide_border=true&area=true"/>
 </div>
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1998/1998672.png" width="28"/> Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -233,7 +273,15 @@ Contributed to the design and development of client-facing web applications with
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/1055/1055646.png" width="28"/> Current Focus
+## 🗺️ Visitor Insights
+
+<div align="center">
+<img src="https://profile-counter.glitch.me/udaykalse/count.svg" width="35%"/>
+</div>
+
+---
+
+## 🎯 Current Focus
 
 ```yaml
 learning:
@@ -246,7 +294,7 @@ building:
   - Reusable Next.js authentication modules
 
 exploring:
-  - Cloud deployment (AWS)
+  - Cloud deployment on AWS
   - AI/ML integration in web applications
 
 open_to:
@@ -257,13 +305,14 @@ open_to:
 
 ---
 
-## <img src="https://cdn-icons-png.flaticon.com/512/542/542638.png" width="28"/> Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
-<a href="mailto:udaykalse123@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/uday-k-877221391/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Udaykalse"><img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://developer-portfolio-c4eg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:udaykalse123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="https://www.linkedin.com/in/uday-k-877221391/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="https://github.com/Udaykalse"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="https://developer-portfolio-c4eg.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1E1B4B"/></a>
+<a href="https://twitter.com/@sarcasticuk_"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=1E1B4B"/></a>
 </p>
 
 ---
@@ -272,6 +321,6 @@ open_to:
 
 *"Code with passion, build with purpose."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:5B21B6,100:1E1B4B&height=150&section=footer"/>
 
 </div>
